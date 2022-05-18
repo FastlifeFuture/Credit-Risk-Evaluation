@@ -1,1 +1,2 @@
-# Credit-Risk-Evaluation
+# Credit Risk Evaluator
+Supervised Machine Learning
